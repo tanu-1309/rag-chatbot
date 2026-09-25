@@ -1,3 +1,5 @@
+> **This repository is a copy of a project originally created by Madhav Meesala,** who is credited as the maintainer in this README. The Apache-2.0 license in this repository applies (see [LICENSE](LICENSE)). It is kept here for study and reference. All credit for the code and documentation belongs to the original author; it is not original work of this repository's owner.
+
 # RAG (Retrieval-augmented generation) ChatBot
 
 [![CI](https://github.com/madhavmeesala/rag-chatbot/workflows/CI/badge.svg)](https://github.com/madhavmeesala/rag-chatbot/actions/workflows/ci.yaml)
@@ -224,7 +226,6 @@ SYNTHESIS_STRATEGY="tree-summarization"
 |-----------------------------|-----------|-------|
 | create-and-refine | Yes | Sequential synthesis |
 | tree-summarization | Yes | Recommended - Hierarchical synthesis |
-
 
 ## Build the memory index
 
